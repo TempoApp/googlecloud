@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+gaeDatanucleusVersion=v1
+gaeDeployDialogSettings=
+gaeHrdEnabled=false
+gaeLaunchAppInBrowser=true
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
+ormEnhancementInclusions=src/main/java/|src/test/java/|src/main/resources/
